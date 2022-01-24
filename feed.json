@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "fun-funny.com",
+    "description": "",
+    "home_page_url": "https://funfunnypl.github.io/fun-funnycom",
+    "feed_url": "https://funfunnypl.github.io/fun-funnycom/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "funfunny"
+    },
+    "items": [
+    ]
+}
